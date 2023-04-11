@@ -1,0 +1,6 @@
+**/target/**
+/project/project/
+**/.idea/**
+*.env
+*.DS_Store
+.gradle
